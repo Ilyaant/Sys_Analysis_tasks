@@ -1,3 +1,5 @@
+# Гр. БПМ-19-2, Антонов Илья
+
 from io import StringIO
 import csv
 
